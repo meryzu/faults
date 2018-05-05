@@ -13,3 +13,7 @@
 ## Coverage
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Coverage/0083beedb8fa43c0a47999bf1a5c8a87)](https://www.codacy.com/app/meryzu/faults?utm_source=github.com&utm_medium=referral&utm_content=meryzu/faults&utm_campaign=Badge_Coverage)
+
+## Snyk
+
+[![Known Vulnerabilities](https://snyk.io/test/github/meryzu/faults/badge.svg?targetFile=requirements.txt)](https://snyk.io/test/github/meryzu/faults?targetFile=requirements.txt)
