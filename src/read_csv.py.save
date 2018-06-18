@@ -1,0 +1,6 @@
+from pandas import pandas
+def print_data():
+	df = pandas.read_csv('./data/gasPrototype.ppmData.csv')
+	print(df)
+if __name__ == "__main__":
+	print_data()
