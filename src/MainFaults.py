@@ -4,7 +4,7 @@ from Scenaries import Scene
 
 extention=5 #Number of time steps to be taken
 
-df=pd.read_csv('../data/FallasJunio.csv') #read data from csv file
+df=pd.read_csv('../data/FallasJunioNew.csv') #read data from csv file
 data=Prepare.prepare(df,16,20,24,28) #posicion de la falla en el array de fallas (failureCode)
 
 #Incluir con data las dos tablas de training y testing
